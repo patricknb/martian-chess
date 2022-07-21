@@ -1,2 +1,2 @@
 # martian chess
- implementação do jogo martian chess em python
+ implementação da logica do jogo martian chess.
